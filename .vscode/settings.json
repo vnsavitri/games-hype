@@ -1,0 +1,5 @@
+{
+    "kiroAgent.configureMCP": "Enabled",
+    "kiroAgent.enableDebugLogs": true,
+    "files.autoSave": "onFocusChange"
+}
